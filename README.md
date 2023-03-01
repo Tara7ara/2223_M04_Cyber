@@ -22,11 +22,6 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner → \<?xml version="1.0" enconding="UTF-8" ?>
 Que básicamente dice que es un archivo *XML* con la codificación *UTF-8*.
 
-hasfkjashdfkl
-```XML
-</character>
-```
-
 Todo archivo XML, necesita una **etiqueta raíz**, una etiqueta donde dependen el resto de elementos, lo ideal es que represente algo y toda etiqueta raíz debe cerrarse. 
 
 ### Como usar XML
