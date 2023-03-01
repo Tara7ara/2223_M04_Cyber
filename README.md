@@ -13,12 +13,6 @@ Aquí irán los apuntes de XML
 	<name>Nombre</name>
 	<surname>Apellido</surname>
 	<age years="0" />
-	<race>Raza</race>
-	<class>Classe</class>
-	<gender abbrev="G">Genero</gender>
-	<height cm="0" />
-	<weight kg="0" />
-	<lenguage abbrev="l">Lenguaje</lenguage>
 </character>
 ```
 
