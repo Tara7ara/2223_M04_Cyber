@@ -74,6 +74,8 @@ Negrita: **CORRECTA** __OTRA FORMA CORRECTA__
 
 [Emojis para poner en texto](https://gist.github.com/rxaviers/7360908)
 
+**RECUERDA**, estos emj estan para git y en pocos sitios más.
+
 ### Listas
 
 * lista n1
