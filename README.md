@@ -35,6 +35,9 @@ Las **Etiquetas** se abren de <nombre_de_la_etiqueta> y se cierran de la siguein
 
 Dependiendo de las etiquetas se cierra con la propia etiqueta o no, como se ve en el codigo 
 
+* <name>Nombre</name> (se abre y se cierra con dos etiquetas para decir de alguna manera)
+* <age years="0" /> (se abre y cierra con la misma etiqueta)
+
 Para comentar: \<!-- COMENTARIO -->
 
 Una [WEB](https://desarrolloweb.com/manuales/18) o esta otra [WEB](https://aws.amazon.com/es/what-is/xml/) que explica todo de forma resumida.
