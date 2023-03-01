@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<character id_character="2">
+		<name>Mariana</name>
+		<surname>rajoya</surname>
+		<!-- COMENTARIO -->
+		<age years="1200" />
+		<race>Ada</race>
+		<class>Tanque</class>
+		<gender abbrev="F">Femenino</gender>
+		<height cm="25" />
+		<weight kg="3.4" />
+		<lenguage abbrev="rou">Rumano</lenguage>
+			<tienelaeso />
+	</character>
