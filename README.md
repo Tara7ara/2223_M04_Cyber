@@ -77,3 +77,6 @@ Negrita: **CORRECTA** __OTRA FORMA CORRECTA__
 ~~TACHADO~~
 
 ~~***tachado negrita y cursiva***~~
+
+[comment]: <> (Esto es un comentario que no saldrà)
+[comment]: <> (Todo se cierra desde dentro hacia fuera)
