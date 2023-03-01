@@ -50,6 +50,8 @@ Aquí irán los apuntes de DTD
 <!ATTLIST age years CDATA #REQUIRED>
 ```
 
+Este DTD, es una continuación del XML anterior.
+
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
 
