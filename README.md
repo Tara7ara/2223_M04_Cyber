@@ -35,8 +35,8 @@ Las **Etiquetas** se abren de <nombre_de_la_etiqueta> y se cierran de la siguein
 
 Dependiendo de las etiquetas se cierra con la propia etiqueta o no, como se ve en el codigo 
 
-* <name>Nombre</name> (se abre y se cierra con dos etiquetas para decir de alguna manera)
-* <age years="0" /> (se abre y cierra con la misma etiqueta)
+* \<name>Nombre</name> Se abre y se cierra con dos etiquetas para decir de alguna manera
+* \<age years="0" /> Se abre y cierra con la misma etiqueta
 
 Para comentar: \<!-- COMENTARIO -->
 
