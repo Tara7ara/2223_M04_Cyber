@@ -45,7 +45,7 @@ Y [ESTO](https://enti.cat) es otro enlace.
 
 ### Imagen incrustada
 
-![trollface](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
+![programmer](https://static.vecteezy.com/system/resources/thumbnails/011/961/865/small/programmer-icon-line-color-illustration-vector.jpg)
 
 ### Ejemplo de resaltado de sintaxis
 
