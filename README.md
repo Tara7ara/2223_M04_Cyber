@@ -26,7 +26,7 @@ Aquí irán los apuntes de XML
 
 **XML** o **Lenguaje de Marcas Extensible** permite definir y almacenar datos de forma compartible. XML admite el intercambio de información entre sistemas de computación, como sitios web, bases de datos y aplicaciones de terceros. Las reglas predefinidas facilitan la transmisión de datos como archivos XML a través de cualquier red, ya que el destinatario puede usar esas reglas para leer los datos de forma precisa y eficiente.
 
-Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner <?xml version="1.0" enconding="UTF-8" ?>
+Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner \<?xml version="1.0" enconding="UTF-8" ?>
 
 Que básicamente dice que es un archivo *XML* con la codificación *UTF-8*.
 
