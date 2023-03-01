@@ -12,12 +12,6 @@ Aquí irán los apuntes de DTD
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
 
-Cuantas mas # mas pequeño serà el titulo
-
-Negrita: *INCORRECTA* **CORRECTA**
-
-Cursiva: _CORRECTA_
-
 ### Listas
 
 * lista n1
@@ -68,6 +62,16 @@ fun main(args: Array<String>) {
 - [x] Segunda tarea
 - [ ] Tercera tarea 
 
-### carácters extendidos
+### carácters extendidos (emojis)
 
 :poop: :alien: :cry: :imp:
+
+[Emojis para poner en texto](https://gist.github.com/rxaviers/7360908)
+
+### Estilo de carácters
+
+Cursiva: _CORRECTA_ *OTRA FORMA CORRECTA*
+Negrita: **CORRECTA** __OTRA FORMA CORRECTA__
+~~TACHADO~~
+
+~~***tachado negrita y cursiva***~~
