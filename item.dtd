@@ -1,0 +1,16 @@
+<!ELEMENT item (name, weight, rarity, cost, consumable, durability, uses, level_min, hp, mp, key, class, description)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT weight EMPTY>
+<!ELEMENT rarity(#PCDATA)>
+<!ELEMENT cost EMPTY> 
+<!ELEMENT consumable(#PCDATA)>
+<!ELEMENT durability (#PCDATA)>
+<!ELEMENT uses(#PCDATA)>
+<!ELEMENT level_min(#PCDATA)>
+<!ELEMENT hp (#PCDATA)>
+<!ELEMENT hp(#PCDATA)>
+<!ELEMENT key EMPTY>
+<!ELEMENT class EMPTY>
+<!ELEMENT description EMPTY>
+
+<!ATTLIST weight kg CDATA #REQUIRED>
