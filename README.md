@@ -36,7 +36,6 @@ Para comentar: \<!-- COMENTARIO -->
 Una [WEB](https://desarrolloweb.com/manuales/18) o esta otra [WEB](https://aws.amazon.com/es/what-is/xml/) que explica todo de forma resumida.
 
 ## DTD
-Aquí irán los apuntes de DTD
 
 ```DTD
 <!ELEMENT character (name, surname?, age> <!-- el ? es que puede estar o no -->
