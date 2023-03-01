@@ -6,6 +6,25 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 ## XML
 Aquí irán los apuntes de XML
 
+
+
+```XML 
+<?xml version="1.0" enconding="UTF-8" ?>
+<character>
+	<name>Eustaquio</name>
+	<surname>Mendoza</surname>
+	<!-- COMENTARIO -->
+	<age years="197" />
+	<race>Enano</race>
+	<class>Artificiero</class>
+	<gender abbrev="N">Non-Binary</gender>
+	<height cm="130" />
+	<weight kg="80" />
+	<lenguage abbrev="prt">Portugués</lenguage>
+		<tienelaeso />
+</character>
+```
+
 ## DTD
 Aquí irán los apuntes de DTD
 
@@ -91,3 +110,9 @@ fun main(args: Array<String>) {
 | 4 | Messi | 44 | 32 |
 
 [comment]: <> (Donde esten los : los numeros se alinean donde esten puestos)
+
+### Escapar caracters
+
+\# ejemplo de escapado
+
+\*que en otras cosas*
