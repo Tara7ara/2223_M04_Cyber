@@ -62,7 +62,7 @@ fun main(args: Array<String>) {
 - [x] Segunda tarea
 - [ ] Tercera tarea 
 
-### carácters extendidos (emojis)
+### Carácters extendidos (emojis)
 
 :poop: :alien: :cry: :imp:
 
