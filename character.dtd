@@ -9,7 +9,7 @@
 <!ELEMENT weight EMPTY>
 <!ELEMENT lenguage(#PCDATA)>
 <!ELEMENT TieneLaESO EMPTY>
-<!ELEMENT weapons (weapon*)> <!-- * = 0 o mas veces, + = 1 o mas veces -->
+<!ELEMENT weapons (weapon+)> <!-- * = 0 o mas veces, + = 1 o mas veces -->
 <!ELEMENT weapon EMPTY>
 
 <!ATTLIST character id_charater CDATA #REQUIRED>
