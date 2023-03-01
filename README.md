@@ -42,6 +42,17 @@ Una [WEB](https://desarrolloweb.com/manuales/18) o esta otra [WEB](https://aws.a
 ## DTD
 Aquí irán los apuntes de DTD
 
+```DTD
+<!ELEMENT character (name, surname?, age> <!-- el ? es que puede estar o no -->
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT surname(#PCDATA)>
+<!ELEMENT age EMPTY> <!-- algo o nada -->
+
+
+<!ATTLIST character id_charater CDATA #REQUIRED>
+<!ATTLIST age years CDATA #REQUIRED>
+```
+
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
 
