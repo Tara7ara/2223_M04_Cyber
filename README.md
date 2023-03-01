@@ -8,10 +8,10 @@ Aquí irán los apuntes de XML
 
 ```XML 
 <?xml version="1.0" enconding="UTF-8" ?>
+<!-- COMENTARIO -->
 <character>
 	<name>Nombre</name>
 	<surname>Apellido</surname>
-	<!-- COMENTARIO -->
 	<age years="0" />
 	<race>Raza</race>
 	<class>Classe</class>
