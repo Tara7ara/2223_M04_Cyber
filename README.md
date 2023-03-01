@@ -6,24 +6,37 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 ## XML
 Aquí irán los apuntes de XML
 
-
-
 ```XML 
 <?xml version="1.0" enconding="UTF-8" ?>
 <character>
-	<name>Eustaquio</name>
-	<surname>Mendoza</surname>
+	<name>Nombre</name>
+	<surname>Apellido</surname>
 	<!-- COMENTARIO -->
-	<age years="197" />
-	<race>Enano</race>
-	<class>Artificiero</class>
-	<gender abbrev="N">Non-Binary</gender>
-	<height cm="130" />
-	<weight kg="80" />
-	<lenguage abbrev="prt">Portugués</lenguage>
-		<tienelaeso />
+	<age years="0" />
+	<race>Raza</race>
+	<class>Classe</class>
+	<gender abbrev="G">Genero</gender>
+	<height cm="0" />
+	<weight kg="0" />
+	<lenguage abbrev="l">Lenguaje</lenguage>
 </character>
 ```
+
+### Resumen
+
+**XML** o **Lenguaje de Marcas Extensible** permite definir y almacenar datos de forma compartible. XML admite el intercambio de información entre sistemas de computación, como sitios web, bases de datos y aplicaciones de terceros. Las reglas predefinidas facilitan la transmisión de datos como archivos XML a través de cualquier red, ya que el destinatario puede usar esas reglas para leer los datos de forma precisa y eficiente.
+
+Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner <?xml version="1.0" enconding="UTF-8" ?>
+
+Que básicamente dice que es un archivo *XML* con la codificación *UTF-8*.
+
+Las **Etiquetas** se abren de <nombre_de_la_etiqueta> y se cierran de la sigueinte forma </nombre_de_la_etiqueta>
+
+Dependiendo de las etiquetas se cierra con la propia etiqueta o no, como se ve en el codigo 
+
+Para comentar: <!-- COMENTARIO -->
+
+Una [WEB](https://desarrolloweb.com/manuales/18) que explica todo de forma resumida.
 
 ## DTD
 Aquí irán los apuntes de DTD
