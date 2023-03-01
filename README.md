@@ -22,6 +22,7 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner → \<?xml version="1.0" enconding="UTF-8" ?>
 Que básicamente dice que es un archivo *XML* con la codificación *UTF-8*.
 
+hasfkjashdfkl
 ```XML
 </character>
 ```
