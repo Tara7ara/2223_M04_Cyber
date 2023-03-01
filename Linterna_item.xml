@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<item>
+	<name>Linterna</name>
+	<weight kg="10" />
+	<rarity>"10"</rarity>
+	<cost>"10"</cost>
+	<consumable>"1"</consumable>
+	<durability>"10"</durability>
+	<uses>"10"</uses>
+	<level_min>"1"</level_min>
+	<hp>"50"</hp>
+	<mp>"50"</mp>
+	<key>"0"</key>
+	<class>Luz</class>
+	<description>Ilumina</description>
+</item>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<item>
+	<name>Viagra</name>
+	<weight kg="0.01" />
+	<rarity>"10"</rarity>
+	<cost>"5000"</cost>
+	<consumable>"1"</consumable>
+	<durability>"150"</durability>
+	<uses>"10"</uses>
+	<level_min>"1"</level_min>
+	<hp>"500"</hp>
+	<mp>"500"</mp>
+	<key>"0"</key>
+	<class>Droga</class>
+	<description>Funciona</description>
+</item>

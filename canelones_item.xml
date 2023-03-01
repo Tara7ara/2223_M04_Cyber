@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<item>
+	<name>Canelones Yaya</name>
+	<weight kg="2" />
+	<rarity>"999"</rarity>
+	<cost>"10000"</cost>
+	<consumable>"1"</consumable>
+	<durability>"900"</durability>
+	<uses>"1"</uses>
+	<level_min>"50"</level_min>
+	<hp>"1000"</hp>
+	<mp>"1000"</mp>
+	<key>"0"</key>
+	<class>Comida</class>
+	<description>Esta bueno</description>
+</item>
