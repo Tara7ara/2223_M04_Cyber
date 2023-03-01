@@ -12,6 +12,25 @@ Aquí irán los apuntes de DTD
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
 
+### Estilo de carácters
+
+Cursiva: _CORRECTA_ *OTRA FORMA CORRECTA*
+
+Negrita: **CORRECTA** __OTRA FORMA CORRECTA__
+
+~~TACHADO~~
+
+~~***tachado negrita y cursiva***~~
+
+[comment]: <> (Esto es un comentario que no saldrà)
+[comment]: <> (Todo se cierra desde dentro hacia fuera)
+
+### Carácters extendidos (emojis)
+
+:poop: :alien: :cry: :imp:
+
+[Emojis para poner en texto](https://gist.github.com/rxaviers/7360908)
+
 ### Listas
 
 * lista n1
@@ -62,21 +81,13 @@ fun main(args: Array<String>) {
 - [x] Segunda tarea
 - [ ] Tercera tarea 
 
-### Carácters extendidos (emojis)
+### Tablas
 
-:poop: :alien: :cry: :imp:
+| id_character | name | age | level |
+| ---: | ---: | ---: | ---: |
+| 1 | Eustaquio | 197 | 99 |
+| 2 | Mariana | 20 | 100 |
+| 3 | Mortadelo | 100 | 1 |
+| 4 | Messi | 44 | 32 |
 
-[Emojis para poner en texto](https://gist.github.com/rxaviers/7360908)
-
-### Estilo de carácters
-
-Cursiva: _CORRECTA_ *OTRA FORMA CORRECTA*
-
-Negrita: **CORRECTA** __OTRA FORMA CORRECTA__
-
-~~TACHADO~~
-
-~~***tachado negrita y cursiva***~~
-
-[comment]: <> (Esto es un comentario que no saldrà)
-[comment]: <> (Todo se cierra desde dentro hacia fuera)
+[comment]: <> (Donde esten los : los numeros se alinean donde esten puestos)
