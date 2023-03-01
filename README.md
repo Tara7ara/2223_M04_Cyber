@@ -29,6 +29,8 @@ Aquí irán los apuntes de XML
 Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner \<?xml version="1.0" enconding="UTF-8" ?>
 Que básicamente dice que es un archivo *XML* con la codificación *UTF-8*.
 
+### Como usar XML
+
 Las **Etiquetas** se abren de <nombre_de_la_etiqueta> y se cierran de la sigueinte forma </nombre_de_la_etiqueta>
 
 Dependiendo de las etiquetas se cierra con la propia etiqueta o no, como se ve en el codigo 
