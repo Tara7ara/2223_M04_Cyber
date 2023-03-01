@@ -4,7 +4,6 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 **Recordatorio** de subir las cosas al GitHub: git add -A .			git commit -m ""			git push
 
 ## XML
-Aquí irán los apuntes de XML
 
 ```XML 
 <?xml version="1.0" enconding="UTF-8" ?>
