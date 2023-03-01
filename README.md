@@ -13,13 +13,15 @@ Aquí irán los apuntes de DTD
 Los _apuntes_ MARKDOWN
 
 Cuantas mas # mas pequeño serà el titulo
+
 Negrita: *INCORRECTA* **CORRECTA**
-Cursiva. _CORRECTA_
+
+Cursiva: _CORRECTA_
 
 ### Listas
 
 * lista n1
-	*sub apartado de la lista 1
+	* sub apartado de la lista 1
 	* otro sub apartado
 * lista n2
 * lista n3
@@ -45,7 +47,7 @@ Esto es un enlace a la mejor web del mundo:
 
 [CondorChem](https://condorchem.com)
 
-Y [ESTO](htpps://enti.cat) es otro enlace.
+Y [ESTO](https://enti.cat) es otro enlace.
 
 ### Imagen incrustada
 
@@ -65,3 +67,7 @@ fun main(args: Array<String>) {
 - [ ] Primera tarea
 - [x] Segunda tarea
 - [ ] Tercera tarea 
+
+### carácters extendidos
+
+:poop: :alien: :cry: :imp:
