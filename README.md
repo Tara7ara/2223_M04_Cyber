@@ -33,7 +33,7 @@ Las **Etiquetas** se abren de <nombre_de_la_etiqueta> y se cierran de la siguein
 
 Dependiendo de las etiquetas se cierra con la propia etiqueta o no, como se ve en el codigo 
 
-Para comentar: <!-- COMENTARIO -->
+Para comentar: \<!-- COMENTARIO -->
 
 Una [WEB](https://desarrolloweb.com/manuales/18) que explica todo de forma resumida.
 
