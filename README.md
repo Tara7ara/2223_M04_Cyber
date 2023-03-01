@@ -19,17 +19,21 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 
 **XML** o **Lenguaje de Marcas Extensible** permite definir y almacenar datos de forma compartible. XML admite el intercambio de información entre sistemas de computación, como sitios web, bases de datos y aplicaciones de terceros. Las reglas predefinidas facilitan la transmisión de datos como archivos XML a través de cualquier red, ya que el destinatario puede usar esas reglas para leer los datos de forma precisa y eficiente.
 
-Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner \<?xml version="1.0" enconding="UTF-8" ?>
+Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner → \<?xml version="1.0" enconding="UTF-8" ?>
 Que básicamente dice que es un archivo *XML* con la codificación *UTF-8*.
+
+```XML
+</character>
+```
+
+Todo archivo XML, necesita una **etiqueta raíz**, una etiqueta donde dependen el resto de elementos, lo ideal es que represente algo y toda etiqueta raíz debe cerrarse. 
 
 ### Como usar XML
 
-Las **Etiquetas** se abren de <nombre_de_la_etiqueta> y se cierran de la sigueinte forma </nombre_de_la_etiqueta>
-
-Dependiendo de las etiquetas se cierra con la propia etiqueta o no, como se ve en el codigo 
-
-* \<name>Nombre</name> Se abre y se cierra con dos etiquetas para decir de alguna manera
-* \<age years="0" /> Se abre y cierra con la misma etiqueta
+* Etiquetas pares:
+	* Se abren y cierran, Cuando lo que tenemos que escribir es muy variable, puede ser par (character por ejemplo, o cuando algo vaya a contener muchos datos)
+* Etiquetas impares:
+	* Se cierran en sí mismas. Por ejemplo la edad, es una cosa muy concreta, entonces es recomendable hacerla impar.
 
 Para comentar: \<!-- COMENTARIO -->
 
