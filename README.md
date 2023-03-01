@@ -39,3 +39,7 @@ Esto es un enlace a la mejor web del mundo:
 [CondorChem](https://condorchem.com)
 
 Y [ESTO](htpps://enti.cat) es otro enlace.
+
+### Imagen incrustada
+
+![trollface](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
