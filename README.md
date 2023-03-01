@@ -71,7 +71,9 @@ fun main(args: Array<String>) {
 ### Estilo de carácters
 
 Cursiva: _CORRECTA_ *OTRA FORMA CORRECTA*
+
 Negrita: **CORRECTA** __OTRA FORMA CORRECTA__
+
 ~~TACHADO~~
 
 ~~***tachado negrita y cursiva***~~
