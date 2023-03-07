@@ -68,7 +68,7 @@ Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las et
 	* (#PCDATA) → **parsed character data**, es texto plano interpretado
 	* EMPTY → Es un elemento que dice que no puede tener un hijo de categoria.
 
-#### Sufijos que pueden tener las etiquetas <!ELEMENT>
+	* Sufijos que pueden tener las etiquetas <!ELEMENT>
 
 | sufijo | Significado |  
 | --- | --- | 
