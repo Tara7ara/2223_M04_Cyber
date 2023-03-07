@@ -75,6 +75,7 @@ Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las et
 Para comentar: \<!-- COMENTARIO -->
 
 ### Sufijos que pueden tener las etiquetas
+
 | sufijo | Significado |  
 | ? | El elemento puede tener una o ninguna subcategoria, pero nunca más de una |
 | * | El elemento puede tener cero o más subcategorias |
