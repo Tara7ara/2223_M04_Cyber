@@ -63,13 +63,13 @@ Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las et
 	
 **Las demás etiquetas** se pueden clasificar en dos:
 
-*<!ELEMENT> Es la declaración de un elemento, y puede tener las siguientes subcategorias:
-	***USO**: <!ELEMENT nombre_elemento (modelo_contenido)>
+*\<!ELEMENT> Es la declaración de un elemento, y puede tener las siguientes subcategorias:
+	* **USO**: <!ELEMENT nombre_elemento (modelo_contenido)>
 	*(#PCDATA) → **parsed character data**, es texto plano interpretado
 	*EMPTY → Es un elemento que dice que no puede tener un hijo de categoria.
 
-*<!ATTLIST> Es la declaración de una lista de atributos. Puede contener lo siguiente:
-	***USO**: <!ATTLIST nombre_elemento	nombre_atributo    valor_atributo    valor_defecto> Todos estos valores, pueden estar o no estar.
+*\<!ATTLIST> Es la declaración de una lista de atributos. Puede contener lo siguiente:
+	* **USO**: <!ATTLIST nombre_elemento	nombre_atributo    valor_atributo    valor_defecto> Todos estos valores, pueden estar o no estar.
 	* \#REQUIRED: Es obligatorio el atributo.
 
 Para comentar: \<!-- COMENTARIO -->
