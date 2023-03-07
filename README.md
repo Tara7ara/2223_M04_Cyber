@@ -17,7 +17,7 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 
 ### Resumen
 
-**XML** o **Lenguaje de Marcas Extensible** permite definir y almacenar datos de forma compartible. XML admite el intercambio de información entre sistemas de computación, como sitios web, bases de datos y aplicaciones de terceros. Las reglas predefinidas facilitan la transmisión de datos como archivos XML a través de cualquier red, ya que el destinatario puede usar esas reglas para leer los datos de forma precisa y eficiente.
+**XML** o **Lenguaje de Marcas Extensible**, es un lenguaje que describe y estructura super bien el contenido. 
 
 Cuando abrimos un archivo **XML** al principio del codigo tendremos que poner → \<?xml version="1.0" enconding="UTF-8" ?>
 Que básicamente dice que es un archivo *XML* con la codificación *UTF-8*.
@@ -48,7 +48,33 @@ Una [WEB](https://desarrolloweb.com/manuales/18) o esta otra [WEB](https://aws.a
 <!ATTLIST age years CDATA #REQUIRED>
 ```
 
-Este DTD, es una continuación del XML anterior.
+Este **DTD**, es una continuación del **XML** anterior.
+
+### Resumen
+
+Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las etiquetas de XML, más bien dicho, los clasifica.
+
+### Explicación de las etiquetas
+
+* Primera etiqueta:
+	* En esta etiqueta tenemos que poner la clasificación general de XML, que en este caso es character y poner las sub etiquetas que despues las tendremos que poner.
+* Las demás etiquetas: 
+	* Las subetiquetas que hemos puesto anteriormente, hay que poner cada uno de los puestos.
+	
+**Las demás etiquetas** se pueden clasificar en dos:
+
+*<!ELEMENT> Es la declaración de un elemento, y puede tener las siguientes subcategorias:
+	***USO**: <!ELEMENT nombre_elemento (modelo_contenido)>
+	*(#PCDATA) → **parsed character data**, es texto plano interpretado
+	*EMPTY → Es un elemento que dice que no puede tener un hijo de categoria.
+
+*<!ATTLIST> Es la declaración de una lista de atributos. Puede contener lo siguiente:
+	***USO**: <!ATTLIST nombre_elemento	nombre_atributo    valor_atributo    valor_defecto> Todos estos valores, pueden estar o no estar.
+	* \#REQUIRED: Es obligatorio el atributo.
+
+Para comentar: \<!-- COMENTARIO -->
+
+Una [WEB](http://codexexempla.org/articulos/2008/index.php) de donde he sacado la información.
 
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
