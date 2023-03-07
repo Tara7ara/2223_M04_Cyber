@@ -68,7 +68,7 @@ Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las et
 	* (#PCDATA) → **parsed character data**, es texto plano interpretado
 	* EMPTY → Es un elemento que dice que no puede tener un hijo de categoria.
 
-	* Sufijos que pueden tener las etiquetas <!ELEMENT>
+	* Sufijos que pueden tener las etiquetas <!ELEMENT>:
 
 > | sufijo | Significado |  
 > | --- | --- | 
@@ -77,7 +77,7 @@ Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las et
 > | + | El elemento puede debe tener al menos una subcategoria, pero puede tener más |
 
 * <!ATTLIST> Es la declaración de una lista de atributos. Puede contener lo siguiente:
-	* **USO**: <!ATTLIST nombre_elemento	nombre_atributo    valor_atributo    valor_defecto> Todos estos valores, pueden estar o no estar.
+	* **USO**: \<!ATTLIST nombre_elemento	nombre_atributo    valor_atributo    valor_defecto> Todos estos valores, pueden estar o no estar.
 	* \#REQUIRED: Es obligatorio el atributo.
 
 Para comentar: \<!-- COMENTARIO -->
