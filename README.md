@@ -70,11 +70,11 @@ Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las et
 
 	* Sufijos que pueden tener las etiquetas <!ELEMENT>
 
-| sufijo | Significado |  
-| --- | --- | 
-| ? | El elemento puede tener una o ninguna subcategoria, pero nunca más de una |
-| * | El elemento puede tener cero o más subcategorias |
-| + | El elemento puede debe tener al menos una subcategoria, pero puede tener más |
+> | sufijo | Significado |  
+> | --- | --- | 
+> | ? | El elemento puede tener una o ninguna subcategoria, pero nunca más de una |
+> | * | El elemento puede tener cero o más subcategorias |
+> | + | El elemento puede debe tener al menos una subcategoria, pero puede tener más |
 
 * <!ATTLIST> Es la declaración de una lista de atributos. Puede contener lo siguiente:
 	* **USO**: <!ATTLIST nombre_elemento	nombre_atributo    valor_atributo    valor_defecto> Todos estos valores, pueden estar o no estar.
