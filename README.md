@@ -64,7 +64,7 @@ Todo archivo DTL, necesita una **archivo XML**, ya que el DTL "clasifica" las et
 **Las demás etiquetas** se pueden clasificar en dos:
 
 * <!ELEMENT> Es la declaración de un elemento, y puede tener las siguientes subcategorias:
-	* **USO**: <!ELEMENT nombre_elemento (modelo_contenido)>
+	* **USO**: \<!ELEMENT nombre_elemento (modelo_contenido)>
 	* (#PCDATA) → **parsed character data**, es texto plano interpretado
 	* EMPTY → Es un elemento que dice que no puede tener un hijo de categoria.
 
