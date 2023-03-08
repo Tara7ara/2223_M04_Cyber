@@ -104,190 +104,26 @@ En esta asignatura aprenderemos HTML5, que es html Life Scheme.
 <html>
 <head>
 <title>Martí Tarrasón</title>
-	
-<style>
-html{
-padding:0;
-margin:0;
-}
-body{
-padding:0;
-margin:0;
-background-color:#ffffff;
-font-family:Arial;
-}
-h1{
-background-color:#4EA8DE;
-color:#000000;
-font-size:20px;
-border-left:4px solid #6930C3;
-/*margin-top:0;
-margin-right:32px;
-margin-bottom:64px;
-margin-left:32px;
-margin:0 32px 64px 32px;*/
-}
-
-form{
-margin: 8px 32px 8 px 32px;
-border: 1px solid red;
-background-color:#ccc;
-font-family:Courier;
-color:#0f0;
-/*border:1px dotted #ffffff*/
-}
-/*solid/dotted/dasehd/etc*/
-
-img{
-width:100px;
-}
-
-#comoarruinartuvida{
-width:150px;
-border:3px solid black;
-}
-
-fieldset{
-border:2px solid #444;
-background-color: #ddd;
-font-family:Verdana;
-}
-
-legend{
-background-color:#444;
-color:#fff;
-padding:0 2px 0 2px;
-}
-
-input, textarea, select{
-color:#0f0;
-font-size:24px;
-}
-
-</style>
-	
 </head>
-<!--ESTO ES UN COMENTARIO SECRETO-->
 <body>
 <h1>Página "oficial" de Martí Tarrasón</h1>
 <h2>Aquí voy a hablar un poco de mí, de donde vengo y que cosas me gustan:</h2>
 <p>Yo vengo de hacer un bachillerato <strong>tecnológico</strong></p>
-<p>Ahora mismo estudio un ciclo de ENTI, especialmente en <strong><a href="https://enti.cat/es/">DAM VIOD</a></strong>. Me apunté; en este ciclo porque desde pequeño siempre he tenido la idea de que cuando sea mayor,
-sería un programador profesional de videojuegos. Y desde pequeño intenté; cosas de programación,
+<p>Ahora mismo estudio un ciclo de ENTI, especialmente en <strong><a href="https://enti.cat/es/">CYBER</a></strong>. Me apunté; en este ciclo porque desde pequeño siempre he tenido la idea de que cuando sea mayor,
+sería un atacante o defensor de internet. Y desde pequeño intenté hacer cosas de programación,
 por ejemplo en primero de la ESO hice tres "virus" para que los ordenadores del instituto se apagasen, ese "virus" funciono, pero al momento de poner y que funcionara,
-lo saque para no meterme en problemas. Esto lo hice con <em>C++</em>, pero si me preguntas algo de este lenguaje, no te sabré responder, ya que hace mucho tiempo que no lo toco.</p>
+lo saque para no meterme en problemas. Esto lo hice con <em>C++</em>.</p>
 <p>Después intenté hacer un mod de Minecraft con JavaScript, pero al hacerlo con un amigo que tenía mucha idea y que yo no, al final no compaginamos bien y nos separamos a la semana.</p>
-<p>Cambiando de tema, las aficiones que tengo son: <strong>esgrima</strong>, pádel, ver anime, ver Twitch y por último jugar a juegos sin sonido, ya que soy <em>sordo</em>,
+<p>Cambiando de tema, las aficiones que tengo son: <strong>deportes</strong>, ver Twitch y por último jugar a juegos sin sonido, ya que soy <em>sordo</em>,
  estoy acostumbrado a jugar sin sonido y si juego con, me es muy difícil estar por el juego, y por eso un proyecto que quiero hacer, <strong>es un videojuego sin sonido.</strong></p>
 <p>Y por último, los juegos que me gustan son varios:</p>
  <ol>
  <li><a href="https://www.minecraft.net/es-es">Minecraft</a></li>
  <li><a href="https://store.steampowered.com/app/413150/Stardew_Valley/">Stardew Valley</a></li>
  <li><a href="https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=es&gl=US">Clash of Clans</a></li>
- <li><a href="https://www.smashbros.com/es_ES/">Super Smash Bros Ultimate</a></li>
- <li><a href="https://es.wikipedia.org/wiki/Super_Mario_64">Mario 64</a></li> 
  </ol>
 <p>Pero últimamente solo juego los juegos gratis de Epic Games.</p>
 <p>Y esto es todo de mi parte</p> 
-
-<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="happy.jpg"/></a></p>
-<p><a href="https://www.leagueoflegends.com/es-es/"><img src="Troll.jpg" id="comoarruinartuvida" /></a></p>
-
-<hr/> <!-- ja no es fa servir -->
-
-<h2>Tabla v.1</h2>
-
-<table>
-<tr>
-<th>Tabla A</th>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-</tr>
-	
-<tr>
-<th>Tabla B</th>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-</tr>
-</table>
-
-<h2>Tablas v.2</h2>
-
-<table>
-<tr>
-<th>Tabla A</th><th>Tabla B</th>
-</tr>
-<tr>
-<td>1</td><td>4</td>
-</tr>
-<tr>
-<td>2</td><td>5</td>
-</tr>
-<tr>
-<td>3</td><td>6</td>
-</tr>
-</table>
-
-<h2>Formulario demostrativo</h2>
-
-<form>
-
-<p>Usuario: <input type="text" /></p>
-<p>Password: <input type="password" /></p>
-<p>Radio: <input type="radio"/></p>
-<p>Checkbox: <input type="checkbox"/></p>
-<p>Button: <input type="button"/></p>
-<p>Número: <input type="number"/></p>
-<p>Fecha: <input type="date"/></p>
-<p>Color: <input type="color"/></p>
-
-<p>Texto largo: <textarea></textarea></p>
-
-<p>Selector: 
-<select>
-<option>Uno</option>
-<option>Dos</option>
-<option>Tres</option>
-<option>Quatro</option>
-</select></p>
-
-<p>Enviar: <input type="submit"/></p>
-
-</form>
-
-<h2>Formulario</h2>
-
-<form>
-<p>Usuario: <input type="text" name="user" value="Taratara"/></p>
-<p>Password: <input type="password" name="pass"/></p>
-<select name="selector">
-<option value="1">Uno</option>
-<option value="2">Dos dos dos</option> <!-- els espais no sons bons, posar el value -->
-<option value="3">Tres</option>
-<option value="4">Quatro</option>
-</select>
-<p><input type="button" value="esto es un boton"/></p>
-<p><input type="submit" value="Enviar"/></p>
-</form>
-
-<marquee>- - - - - - - - -</marquee>
-<marquee> C R I N G E </marquee>
-<marquee>- - - - - - - - -</marquee>
-
-<hr/> <!-- ja no es fa servir -->
-
-</form>
-
-<form>
-<fieldset>
-<legend>Formulario de login</legend>
-<p><label for="login-user">Usuario: </label><input type="text" name="user" id="login-user"/></p>
-<p><label for ="login-pass">Contraseña: </label><input type="password" name="pass" id="login-pass"/></p>
-</fieldset>
-
-</form>
 
 </body>
 </html>
