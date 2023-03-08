@@ -239,7 +239,8 @@ color:#0f0;
 font-size:24px;
 }
 
-}```
+}
+```
 
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
