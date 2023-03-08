@@ -1,87 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE weapons SYSTEM "weapons.dtd">
 <weapons>
 	<weapon>
-		<name>Bazooka Worms</name>
-		<physical_damage>20</physical_damage>
-		<physical_defense>30</physical_defense>
-		<magical_damage>10</magical_damage>
-		<magical_defense>20</magical_defense>
-		<level>2</level>
-		<level_min>1</level_min>
-		<rarity>40</rarity>
-		<cost eur="120" />
-		<hands>2</hands>
-		<weight kg="44" />
-		<durability>1</durability>
-		<uses>1</uses>
-		<ammo>1</ammo>
-		<ammo_max>1</ammo_max>
-		<class>Artificiero</class>
-		<element>Fuego</element>
-		<description>Vaya zambombazo que te mete</description>
+		<name>Bazooka worms</name>
+		<physical_dmg>"20"</physical_df>
+		<physical_df>"30"</physical_df>
+		<magical_dmg>"10"<magical_dmg>
+		<magical_df>"20"</magical_df>
+		<level>"2"</level>
+		<cost>"120"</cost>
 	</weapon>
-	
 	<weapon>
 		<name>Mama's chancla</name>
-		<physical_damage>99</physical_damage>
-		<physical_defense>99</physical_defense>
-		<magical_damage>5</magical_damage>
-		<magical_defense>5</magical_defense>
-		<level>100</level>
-		<level_min>1</level_min>
-		<rarity>10</rarity>
-		<cost eur="1000" />
-		<hands>1</hands>
-		<weight kg="5.7" />
-		<durability>100</durability>
-		<uses>-1</uses>
-		<ammo>0</ammo>
-		<ammo_max>0</ammo_max>
-		<class>Chancla</class>
-		<element>aereo</element>
-		<description>Muy poderosa</description>
+		<physical_dmg>"99"</physical_df>
+		<physical_df>"99"</physical_df>
+		<magical_dmg>"5"<magical_dmg>
+		<magical_df>"5"</magical_df>
+		<level>"99"</level>
+		<cost>"1000"</cost>
 	</weapon>
-	
 	<weapon>
-		<name>Merce's puñalote</name>
-		<physical_damage>0</physical_damage>
-		<physical_defense>100</physical_defense>
-		<magical_damage>100</magical_damage>
-		<magical_defense>100</magical_defense>
-		<level>20</level>
-		<level_min>100</level_min>
-		<rarity>1</rarity>
-		<cost eur="1" />
-		<hands>1</hands>
-		<weight kg="0.2" />
-		<durability>20</durability>
-		<uses>10</uses>
-		<ammo>1</ammo>
-		<ammo_max>1</ammo_max>
-		<class>Kinky</class>
-		<element>Tierra</element>
-		<description>Esta oxidado y heuele a perro</description>
+		<name>Merce's Puñalote</name>
+		<physical_dmg>"0"</physical_df>
+		<physical_df>"100"</physical_df>
+		<magical_dmg>"100"<magical_dmg>
+		<magical_df>"100"</magical_df>
+		<level>"1"</level>
+		<cost>"1"</cost>
 	</weapon>
-	
-	<weapon>
-		<name>Espadastola</name>
-		<physical_damage>100</physical_damage>
-		<physical_defense>100</physical_defense>
-		<magical_damage>10</magical_damage>
-		<magical_defense>10</magical_defense>
-		<level>10</level>
-		<level_min>10</level_min>
-		<rarity>20</rarity>
-		<cost eur="250" />
-		<hands>2</hands>
-		<weight kg="10" />
-		<durability>10</durability>
-		<uses>1000</uses>
-		<ammo>6</ammo>
-		<ammo_max>6</ammo_max>
-		<class>Flipao</class>
-		<element>Fuego</element>
-		<description>Letal</description>
-	</weapon>
-
 </weapons>
