@@ -106,29 +106,100 @@ HTML fue muy importante ya que antes del 1991 no havia manera de tener una comun
 En esta asignatura aprenderemos HTML5, que es html Life Scheme.
 
 ``` HTML
+<!DOCTYPE html>
 <html>
 <head>
-<title>Martí Tarrasón</title>
+	<title> Martí Tarrasón: Alumne de Cyber de ENTI</title>	
 </head>
+
 <body>
-<h1>Página "oficial" de Martí Tarrasón</h1>
-<h2>Aquí voy a hablar un poco de mí, de donde vengo y que cosas me gustan:</h2>
-<p>Yo vengo de hacer un bachillerato <strong>tecnológico</strong></p>
-<p>Ahora mismo estudio un ciclo de ENTI, especialmente en <strong><a href="https://enti.cat/es/">CYBER</a></strong>. Me apunté; en este ciclo porque desde pequeño siempre he tenido la idea de que cuando sea mayor,
-sería un atacante o defensor de internet. Y desde pequeño intenté hacer cosas de programación,
-por ejemplo en primero de la ESO hice tres "virus" para que los ordenadores del instituto se apagasen, ese "virus" funciono, pero al momento de poner y que funcionara,
-lo saque para no meterme en problemas. Esto lo hice con <em>C++</em>.</p>
-<p>Después intenté hacer un mod de Minecraft con JavaScript, pero al hacerlo con un amigo que tenía mucha idea y que yo no, al final no compaginamos bien y nos separamos a la semana.</p>
-<p>Cambiando de tema, las aficiones que tengo son: <strong>deportes</strong>, ver Twitch y por último jugar a juegos sin sonido, ya que soy <em>sordo</em>,
- estoy acostumbrado a jugar sin sonido y si juego con, me es muy difícil estar por el juego, y por eso un proyecto que quiero hacer, <strong>es un videojuego sin sonido.</strong></p>
-<p>Y por último, los juegos que me gustan son varios:</p>
- <ol>
- <li><a href="https://www.minecraft.net/es-es">Minecraft</a></li>
- <li><a href="https://store.steampowered.com/app/413150/Stardew_Valley/">Stardew Valley</a></li>
- <li><a href="https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=es&gl=US">Clash of Clans</a></li>
- </ol>
-<p>Pero últimamente solo juego los juegos gratis de Epic Games.</p>
-<p>Y esto es todo de mi parte</p> 
+
+	<header>
+		<h1><a href="index.html">Martí Tarrasón</a></h1>
+		<p>Alumne de Enti, hacker en los tiempos libres</p>
+	</header>
+
+	<nav>
+		<ul>
+			<li><a href="cv.html><abbr title="Curriculum Vitae">CV</abbr></a></li>
+			<li><a href="hobbies.html><abbr title="Hobbies de Martí">Hobbies</abbr></a></li>
+			<li><a href="contacto.html><abbr title="Contacto,contactame">Contacto</abbr></a></li>
+		</ul>
+	</nav>
+
+	<main>
+		<h2>Estudiante en:</h2>
+		<p>ENTI, Escoles Noves Tecnologíes de la Informació</h2>
+		
+		<blockquote>
+		El conocimiento es poder. <em>Francis Bacon</em>
+		</blockquote>
+		
+		
+		<h2>Ficha</h2>
+		<p><img src="https://d273yxk2oj202w.cloudfront.net/upldr/enti-classlife-education/2023/03/07/minithumbnail/qweqweqew.webp" alt="Foto de perfil de Classlife"></p>
+	
+		<h3>Asignaturas</h3>
+		<ol>
+			<li> Implantació de sistemes operatius (Rafa Laguna Corripio)</li>
+				<ul>
+					<li>Instal·lació, configuració i explotació del sistema informàtic </li>
+					<li>Gestió de la informació i de recursos en una xarxa </li>
+					<li>Implantació de programari específic </li>
+					<li>Seguretat, rendiment i recursos </li>
+				</ul>
+			<li> Gestió de bases de dades (Rafa Laguna Corripio)</li>
+				<ul>
+					<li>Introducció a les bases de dades </li>
+					<li>Llenguatges SQL: DML i DDL </li>
+					<li>Assegurament de la informació </li>
+				</ul>
+			<li> Programació bàsica (Pau Garcia Gozàlvez)</li>
+				<ul>
+					<li>Programació estructurada </li>
+					<li>Disseny modular </li>
+					<li>Fonaments de gestió de fitxers </li>
+				</ul>
+			<li> Llenguatge de marques i sistemes de gestió d’informació (Rafa Laguna Corripio)</li>
+				<ul>
+					<li>Programació amb XML </li>
+					<li>Àmbits d’aplicació de l’XML </li>
+					<li>Sistemes de gestió empresarial </li>
+				</ul>
+			<li> Fonaments de maquinari (Oriol Martínez)</li>
+				<ul>
+					<li>Arquitectura de sistemes </li>
+					<li>Instal·lació, configuració i recuperació de programari </li>
+					<li>Implantació i manteniment de CPD </li>
+				</ul>
+			<li> Seguretat i alta disponibilitat (Josuè Sallent i Oriol Condal)</li>
+				<ul>
+					<li>Seguretat física, lógica i legislació </li>
+					<li>Seguretat activa i accés remot </li>
+					<li>Tallafocs i servidors intemedis </li>
+					<li>Alta disponibilitat </li>
+				</ul>
+			<li> Formació i orientació laboral (Anna Pujol)</li>
+				<ul>
+					<li>Incorporació al treball </li>
+					<li>Prevenció de riscos laborals </li>
+				</ul>
+			<li> Empresa i iniciativa emprenedora (Anna Pujol)</li>
+				<ul>
+					<li>Empresa i iniciativa emprenedora </li>
+				</ul>
+			<li> Ciberseguretat i Hacking ètic ( Oriol Condal)</li>
+				<ul>
+					<li>Ciberseguretat i Ciberinteligencia </li>
+					<li>Hacking ètic </li>
+				</ul>
+		</ol>
+	</main>
+
+	<footer>
+		<h2>Información extra<h2>
+		<p>Taratara (c) 2023</p>
+	</footer>
 
 </body>
 </html>
@@ -181,66 +252,25 @@ www.google.es
 **CSS** = Cascada de estilos
 
 ```CSS
-html{
-padding:0;
-margin:0;
-}
-body{
-padding:0;
-margin:0;
-background-color:#ffffff;
-font-family:Arial;
-}
 h1{
-background-color:#4EA8DE;
-color:#000000;
-font-size:20px;
-border-left:4px solid #6930C3;
-//margin-top:0;
-//margin-right:32px;
-//margin-bottom:64px;
-//margin-left:32px;
-//margin:0 32px 64px 32px;
+	background-color:olive;
 }
 
-form{
-margin: 8px 32px 8 px 32px;
-border: 1px solid red;
-background-color:#ccc;
-font-family:Courier;
-color:#0f0;
-//border:1px dotted #ffffff
-}
-//solid/dotted/dasehd/etc
-
-img{
-width:100px;
+h2{
+	color:red;
 }
 
-#comoarruinartuvida{
-width:150px;
-border:3px solid black;
+h3{
+	background-color:aqua;
+	color:pink;
 }
 
-fieldset{
-border:2px solid #444;
-background-color: #ddd;
-font-family:Verdana;
-}
-
-legend{
-background-color:#444;
-color:#fff;
-padding:0 2px 0 2px;
-}
-
-input, textarea, select{
-color:#0f0;
-font-size:24px;
-}
-
+ul{
+	border:1px solid red
 }
 ```
+
+Una [WEB](https://developer.mozilla.org/es/docs/Web/CSS) de donde he sacado la información.
 
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
