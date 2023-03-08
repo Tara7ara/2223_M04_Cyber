@@ -140,6 +140,8 @@ Las etiquetas son como XML y DTD, se abren y se tienen que cerrarse.
 
 Si no se entiende los apuntes, puedes mirar el archivo index.html para que se pueda ver que es lo que hace y como se usan bien las etiquetas.
 
+Tambien hay etiquetas que no he hablado aqui pero en el archivo nombrado anteriormente se puede ver lo que hace.
+
 * En cada html, necesita su etiqueta raiz, que en este caso es <html>
 * Para poner un titulo se usa <title>
 * Para la cabezera del html se usa <head>
@@ -151,6 +153,10 @@ Si no se entiende los apuntes, puedes mirar el archivo index.html para que se pu
 * Para hacer una lista primero se usa <ol> (ordenate list) y despues <li> para cada linea de la lista
 * Para poner una etiqueta cringe se usa <marquee> o <blink> pero esta ultima ya no funciona
 * Para poner un link se usa <a>
+* Para poner una imagen se usa <img>
+* Para comentar se usa <!-- -->
+* 
+* 
 
 ---
 
