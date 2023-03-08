@@ -94,6 +94,23 @@ Una [WEB](http://codexexempla.org/articulos/2008/index.php) de donde he sacado l
 
 **HTML** → Hyper Text Markup Language, fue creado en el 1993 (mientras que el HTTP fue creado en el 1991).
 
+Se dice que **Tim Berners-Lee** fue el creador de HTTP y por consecuencia HTML.
+
+HTML fue muy importante ya que antes del 1991 no havia manera de tener una comunicación estandar, y HTML es importante ya que es un estandar de comunicación y por eso fue revolucionario.
+
+---
+
+**Pequeño inciso**
+
+www.google.es 
+
+* \.es → TLD, Top Level Domain: es el dominio
+* www. → World Wide Web: no es un protocolo, es la red ancha del mundo, ahora ya no hace falta poner, ya que el navegador se usa para navegar y no para otras cosas.
+
+[comment]: <> (INTERNET no es igual a DOMINIOS, INTERNET es una multiredes y el DOMINIO es una red)
+
+**RECOMENDACION DEL RAFA**, tener un dominio de *mierda* y luchar por hacer nuestras cosas.
+
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
 
