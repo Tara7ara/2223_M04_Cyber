@@ -154,6 +154,9 @@ Tambien hay etiquetas que no he hablado aqui pero en el archivo nombrado anterio
 * Para poner una etiqueta cringe se usa ```<marquee>``` o ```<blink>``` pero esta ultima ya no funciona
 * Para poner un link se usa ```<a>```
 * Para poner una imagen se usa ```<img>```
+	* Se puede poner un link en la img usando ```<a>```
+	* Se puede poner un id para clasificar cada img ```<id="name">```
+	* Por si no carga se usa, o para que los ciegos sepan que es ```<alt="name">```
 * Para comentar se usa ```<!-- -->```
 * 
 * 
