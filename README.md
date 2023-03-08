@@ -103,8 +103,7 @@ En esta asignatura aprenderemos HTML5, que es html Life Scheme.
 ``` HTML
 <html>
 <head>
-	<title>Martí Tarrasón</title>
-	
+<title>Martí Tarrasón</title>
 	
 <style>
 html{
