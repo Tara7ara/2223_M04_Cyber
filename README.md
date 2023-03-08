@@ -142,11 +142,11 @@ Si no se entiende los apuntes, puedes mirar el archivo index.html para que se pu
 
 Tambien hay etiquetas que no he hablado aqui pero en el archivo nombrado anteriormente se puede ver lo que hace.
 
-* En cada html, necesita su etiqueta raiz, que en este caso es \<html>
-* Para poner un titulo se usa \<title>
-* Para la cabezera del html se usa \<head>
-* Para el cuerpo de html se usa \<body>
-* Para poner un titulo se usa \<h1>\<h2>
+* En cada html, necesita su etiqueta raiz, que en este caso es ```<html>```
+* Para poner un titulo se usa ```<title>```
+* Para la cabezera del html se usa ```<head>```
+* Para el cuerpo de html se usa ```<body>```
+* Para poner un titulo se usa \<h1> \<h2>
 * Para poner un texto de forma normal se usa \<p>
 * Para poner el texto en nergita se usa \<strong>
 * Para poner el texto en cursiva se usa \<em>
