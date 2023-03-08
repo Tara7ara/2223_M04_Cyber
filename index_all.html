@@ -7,6 +7,29 @@
 width:150px;
 border:3px solid black;
 }
+
+.dvd {
+    animation: cambio-color 3s infinite;
+  }
+
+  @keyframes cambio-color {
+    0% {
+      color: red;
+    }
+    25% {
+      color: blue;
+    }
+    50% {
+      color: green;
+    }
+    75% {
+      color: yellow;
+    }
+    100% {
+      color: purple;
+    }
+  }
+
 </style>
 </head>
     <title>TITULO</title>
@@ -19,16 +42,17 @@ border:3px solid black;
     <li>Limones</li>
 </ol>
 
-
-
 <marquee
   direction="up"
   width="250"
   height="200"
   behavior="alternate"
   style="border:solid">
-  <marquee behavior="alternate"> DVD </marquee>
+  <marquee behavior="alternate">
+    <span class="dvd">DVD</span>
+  </marquee>
 </marquee>
+
 <h2>Otros subtema</h2>
 
 <p>Esto es un <a href= "https://images-ext-1.discordapp.net/external/Dpj1FrdJOpFxT5qkhysrcQbkTNbCo0PIn6bQBcXvqqY/https/media.tenor.com/EGRN2l8mSboAAAPo/dont-nut.mp4%22%3E enlace</a></p>
