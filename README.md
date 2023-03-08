@@ -146,15 +146,15 @@ Tambien hay etiquetas que no he hablado aqui pero en el archivo nombrado anterio
 * Para poner un titulo se usa ```<title>```
 * Para la cabezera del html se usa ```<head>```
 * Para el cuerpo de html se usa ```<body>```
-* Para poner un titulo se usa \<h1> \<h2>
-* Para poner un texto de forma normal se usa \<p>
-* Para poner el texto en nergita se usa \<strong>
-* Para poner el texto en cursiva se usa \<em>
-* Para hacer una lista primero se usa \<ol> (ordenate list) y despues \<li> para cada linea de la lista
-* Para poner una etiqueta cringe se usa \<marquee> o \<blink> pero esta ultima ya no funciona
-* Para poner un link se usa \<a>
-* Para poner una imagen se usa \<img>
-* Para comentar se usa \<!-- -->
+* Para poner un titulo se usa ```<h1> <h2>```
+* Para poner un texto de forma normal se usa ```<p>```
+* Para poner el texto en nergita se usa ```<strong>```
+* Para poner el texto en cursiva se usa ```<em>```
+* Para hacer una lista primero se usa ```<ol>``` (ordenate list) y despues ```<li>``` para cada linea de la lista
+* Para poner una etiqueta cringe se usa ```<marquee>``` o ```<blink>``` pero esta ultima ya no funciona
+* Para poner un link se usa ```<a>```
+* Para poner una imagen se usa ```<img>```
+* Para comentar se usa ```<!-- -->```
 * 
 * 
 
