@@ -90,6 +90,10 @@ Para comentar: \<!-- COMENTARIO -->
 
 Una [WEB](http://codexexempla.org/articulos/2008/index.php) de donde he sacado la información.
 
+## HTML
+
+**HTML** → Hyper Text Markup Language
+
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
 
