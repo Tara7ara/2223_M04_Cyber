@@ -159,8 +159,9 @@ Tambien hay etiquetas que no he hablado aqui pero en el archivo nombrado anterio
 	* Por si no carga se usa, o para que los ciegos sepan que es ```<alt="name">```
 	* Tendriamos que poner un titulo a la imagen para que cuando tengamos al raton en la imagen, salga una descripcion ```<title="name">```
 * Para comentar se usa ```<!-- -->```
-* 
-* 
+* Para citar un comentario se usa ```<blockquote>```
+
+**RECORDATORIO**, si estas en firefox, y el html esta bien hecho, hacemos control+u y saldra una ventana extra con el html.
 
 ---
 
@@ -174,6 +175,71 @@ www.google.es
 [comment]: <> (INTERNET no es igual a DOMINIOS, INTERNET es una multiredes y el DOMINIO es una red)
 
 **RECOMENDACION DEL RAFA**, tener un dominio de *mierda* y luchar por hacer nuestras cosas.
+
+## CSS
+
+**CSS** = Cascada de estilos
+
+```CSS
+html{
+padding:0;
+margin:0;
+}
+body{
+padding:0;
+margin:0;
+background-color:#ffffff;
+font-family:Arial;
+}
+h1{
+background-color:#4EA8DE;
+color:#000000;
+font-size:20px;
+border-left:4px solid #6930C3;
+//margin-top:0;
+//margin-right:32px;
+//margin-bottom:64px;
+//margin-left:32px;
+//margin:0 32px 64px 32px;
+}
+
+form{
+margin: 8px 32px 8 px 32px;
+border: 1px solid red;
+background-color:#ccc;
+font-family:Courier;
+color:#0f0;
+//border:1px dotted #ffffff
+}
+//solid/dotted/dasehd/etc
+
+img{
+width:100px;
+}
+
+#comoarruinartuvida{
+width:150px;
+border:3px solid black;
+}
+
+fieldset{
+border:2px solid #444;
+background-color: #ddd;
+font-family:Verdana;
+}
+
+legend{
+background-color:#444;
+color:#fff;
+padding:0 2px 0 2px;
+}
+
+input, textarea, select{
+color:#0f0;
+font-size:24px;
+}
+
+}```
 
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
