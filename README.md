@@ -100,7 +100,7 @@ HTML fue muy importante ya que antes del 1991 no havia manera de tener una comun
 
 En esta asignatura aprenderemos HTML5, que es html Life Scheme.
 
-``` HTML5
+``` HTML
 <html>
 <head>
 	<title>Martí Tarrasón</title>
