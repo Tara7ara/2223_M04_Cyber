@@ -150,13 +150,14 @@ Tambien hay etiquetas que no he hablado aqui pero en el archivo nombrado anterio
 * Para poner un texto de forma normal se usa ```<p>```
 * Para poner el texto en nergita se usa ```<strong>```
 * Para poner el texto en cursiva se usa ```<em>```
-* Para hacer una lista primero se usa ```<ol>``` (ordenate list) y despues ```<li>``` para cada linea de la lista
+* Para hacer una lista primero se usa ```<ol>``` (ordenate list) o ```<ul>``` (uordenate list) y despues ```<li>``` para cada linea de la lista
 * Para poner una etiqueta cringe se usa ```<marquee>``` o ```<blink>``` pero esta ultima ya no funciona
 * Para poner un link se usa ```<a>```
 * Para poner una imagen se usa ```<img>```
 	* Se puede poner un link en la img usando ```<a>```
 	* Se puede poner un id para clasificar cada img ```<id="name">```
 	* Por si no carga se usa, o para que los ciegos sepan que es ```<alt="name">```
+	* Tendriamos que poner un titulo a la imagen para que cuando tengamos al raton en la imagen, salga una descripcion ```<title="name">```
 * Para comentar se usa ```<!-- -->```
 * 
 * 
