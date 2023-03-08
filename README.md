@@ -1,7 +1,7 @@
 # Código y documentación M04-UF1
 Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 
-**Recordatorio** de subir las cosas al GitHub: git add -A .			git commit -m ""			git push		git pull (por si hemos trabajado desde casa)
+**Recordatorio** de subir las cosas al GitHub: git add -A .			git commit -m ""			git push		git pull (por si hemos trabajado desde casa)	git clone (por si no tenemos el repositorio en donde estamos trabajando)
 
 ## Lenguaje de marcas
 
