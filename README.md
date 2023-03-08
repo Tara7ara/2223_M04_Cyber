@@ -3,6 +3,12 @@ Cyberseguridad: Llenguatge de Marques, con el profesor Rafa Laguna
 
 **Recordatorio** de subir las cosas al GitHub: git add -A .			git commit -m ""			git push
 
+## Lenguaje de marcas
+
+**Lenguaje de marcas** es un lenguaje que marca los contenidos por lo que son.
+
+**NO** clasifica, almacena y transporta datos.
+
 ## XML
 
 ```XML 
