@@ -92,7 +92,7 @@ Una [WEB](http://codexexempla.org/articulos/2008/index.php) de donde he sacado l
 
 ## HTML
 
-**HTML** → Hyper Text Markup Language
+**HTML** → Hyper Text Markup Language, fue creado en el 1993 (mientras que el HTTP fue creado en el 1991).
 
 ## MARKDOWN
 Los _apuntes_ MARKDOWN
