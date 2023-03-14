@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Martí Tarrasón: Alumne de Cyber de ENTI</title>
+	
+<style>
+
+body{
+margin:0px;
+}
+
+header{
+background-color:#101010;
+}
+
+header h1{
+margin:0px;
+padding:0px;
+/*border:1px solid grey;*/
+font-family:sans-serif;
+}
+
+header h1 a{
+color:#ffffff;
+text-decoration:none; /*la linea del link se quita*/
+}
+
+header p{
+color:#ffffff;
+padding:0px 0px 16px 0px;
+margin:0;
+text-align:center;
+}
+
+h1,h2,h3,h4{
+font-family:sans-serif;
+}
+
+blockquote{
+background-color:#ccc;
+padding:32px;
+border:1px dashed #aaaaaa;
+font-family:courier,serif;
+}
+
+blockquote em{
+font-family:sans-serif;
+}
+
+#prog_gif{
+width:300px;
+border:1px solid black;
+}
+
+.dvd {
+    animation: cambio-color 3s infinite;
+  }
+
+  @keyframes cambio-color {
+    0% {
+      color: red;
+    }
+    25% {
+      color: blue;
+    }
+    50% {
+      color: green;
+    }
+    75% {
+      color: yellow;
+    }
+    100% {
+      color: purple;
+    }
+  }
+  
+nav {
+background-color:#202020;
+}
+
+nav ul li a {
+color:#ffffff;
+text-decoration:none;
+}
+
+/*el .menu viene ya que en el ul hemos puesto un nombre*/
+.menu {
+display: flex; /* es para crear diseños flexibles en un contenedor*/
+justify-content: space-between; /*distribuye los elementos a lo largo del ancho disponible*/
+flex-wrap: wrap; /*Lineas ajustadas, si no ira debajo de ella*/
+list-style: none; /*para eliminar los puntos de la lista*/
+padding: 0;
+margin: 0;
+}
+
+.menu li {
+flex-basis: calc(25% - 10px); /*establece el ancho del elemento en un 25% menos 10 píxeles*/
+margin-bottom: 10px; /*agrega un margen inferior*/
+}
+
+footer {
+position: fixed; /* establece la posición de un elemento*/
+bottom: 0;
+width: 100%;
+display: flex;
+align-items: center; /*alinea los elementos dentro del contenedor verticalmente en el centro*/
+justify-content: center; /*alinea los elementos dentro del contenedor horizontalmente en el centro*/
+font-size: 10px;
+background-color: #f2f2f2;
+padding: 10px;
+}
+
+footer p {
+margin: 0;
+}
+
+
+</style>
+	
+</head>
+
+<body>
+
+	<header>
+		<h1><a href="index.html">Página "oficial" de Martí Tarrasónn</a></h1>
+		<p>Alumne de Enti, hacker en los tiempos libres</p>
+	</header>
+
+	<nav>
+		<ul class="menu">
+			<li><a href="index.html"><abbr title="Página principal">Página principal</abbr></a></li>
+			<li><a href="cv.html"><abbr title="Curriculum Vitae">CV</abbr></a></li>
+			<li><a href="hobbies.html"><abbr title="Hobbies de Martí">Hobbies</abbr></a></li>
+			<li><a href="contacto.html"><abbr title="Contactameeeeeeeeeeeeeeeeeee">Contacto</abbr></a></li>
+		</ul>
+	</nav>
+
+	<main>
+		<h2>Estudiante en:</h2>
+		<p>ENTI, Escoles Noves Tecnologíes de la Informació</h2>
+		
+		<h2>Quien soy:</h2>
+		<p>Ahora mismo estudio un ciclo de ENTI, especialmente en <strong><a href="https://enti.cat/es/">CYBER</a></strong>. Me apunté; en este ciclo porque desde pequeño siempre he tenido la idea de que cuando sea mayor,
+		sería un atacante o defensor de internet. Y desde pequeño intenté hacer cosas de programación,
+		por ejemplo en primero de la ESO hice tres "virus" para que los ordenadores del instituto se apagasen, ese "virus" funciono, pero al momento de poner y que funcionara,
+		lo saque para no meterme en problemas. Esto lo hice con <em>bash</em>.</p>
+		<p>Después intenté hacer un mod de Minecraft con JavaScript, pero al hacerlo con un amigo que tenía mucha idea y que yo no, al final no compaginamos bien y nos separamos a la semana.</p>
+		<p>Cambiando de tema, las aficiones que tengo son: <strong>deportes</strong>, ver Twitch y por último jugar a juegos sin sonido, ya que soy <em>sordo</em>,
+		 estoy acostumbrado a jugar sin sonido y si juego con, me es muy difícil estar por el juego, y por eso un proyecto que quiero hacer, <strong>es un videojuego sin sonido.</strong></p>
+		<p>Y por último, los juegos que me gustan son varios:</p>
+		 <ol>
+			 <li><a href="https://www.minecraft.net/es-es">Minecraft</a></li>
+			 <li><a href="https://store.steampowered.com/app/413150/Stardew_Valley/">Stardew Valley</a></li>
+			 <li><a href="https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=es&gl=US">Clash of Clans</a></li>
+		 </ol>
+		
+		<p>Y aquí voy a poner una cosa que he hecho en un momento :D</p>
+		
+		<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="programador.gif" title="Programming gif" alt="Programming" id="prog_gif"/></a></p>
+		
+		<marquee
+		  direction="up"
+		  width="250"
+		  height="200"
+		  behavior="alternate"
+		  style="border:solid">
+		  <marquee behavior="alternate">
+			<span class="dvd">DVD</span>
+		  </marquee>
+		</marquee>
+		
+		<p>Y esto es todo de mi parte</p>
+		
+	</main>
+
+	<footer>
+		<p>Taratara (c) 2023</p>
+	</footer>
+
+</body>
+</html>
